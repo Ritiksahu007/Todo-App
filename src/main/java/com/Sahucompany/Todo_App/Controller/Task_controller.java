@@ -22,15 +22,13 @@ public class Task_controller {
     private final Allservice services;
     @Autowired
     public Task_controller(Allservice services) {
+
         this.services = services;
     }
-//
-//
+
     @PostMapping
     public String createtask(@RequestParam String title){
-
         services.createtask(title);
-
         return "redirect:/";
     }
 
@@ -47,13 +45,7 @@ public class Task_controller {
         return "redirect:/";
     }
 
-//    @GetMapping("/")
-//    public String getTasks(Model model) {
-//        List<Task> tasks = services.getall();
-//
-//        model.addAttribute("tasks", tasks);
-//        return "tasks";
-//    }
+
 
     @GetMapping
     public String getall(Model model){
