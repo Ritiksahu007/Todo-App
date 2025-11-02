@@ -121,11 +121,10 @@ uses: actions/checkout@v4
 Description	Screenshot
 Homepage
 
-Add Todo Form : - ![Home Page](D:\code\Projects\Springboot\Todo-App\Todo-App\docs\Frontphoto.png) (docs/Frontphoto.png)
+Add Todo Form : - <img src ="D:\code\Projects\Springboot\Todo-App\Todo-App\docs\Frontphoto.png" width="600"/> 
 
 
-Phpadmin on cloud mysql : -![Phpadmin database](D:\code\Projects\Springboot\Todo-App\Todo-App\docs\phpadminimage.png)  (docs/phpadminimage.png)
-
+Phpadmin on cloud mysql : -<img src="D:\code\Projects\Springboot\Todo-App\Todo-App\docs\phpadminimage.png" width="600"/>  
 Deployed on Render
 
 CI/CD Pipeline
