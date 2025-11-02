@@ -121,8 +121,10 @@ uses: actions/checkout@v4
 Description	Screenshot
 Homepage
 
-Add Todo Form : - ![Add Todo Form] (docs/Frontphoto.png)
-Phpadmin on cloud mysql : -![PhpMyAdmin]  (docs/phpadminimage.png)
+Add Todo Form : - ![Home Page](D:\code\Projects\Springboot\Todo-App\Todo-App\docs\Frontphoto.png) (docs/Frontphoto.png)
+
+
+Phpadmin on cloud mysql : -![Phpadmin database](D:\code\Projects\Springboot\Todo-App\Todo-App\docs\phpadminimage.png)  (docs/phpadminimage.png)
 
 Deployed on Render
 
