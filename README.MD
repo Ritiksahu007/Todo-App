@@ -118,16 +118,23 @@ uses: actions/checkout@v4
         run: mvn clean package -DskipTests
 
 📸 Screenshots
-Description	Screenshot
-Homepage
+<br>
+<br>
+Homepage of Todo App
+<br>
+<img src ="docs\Frontphoto.png" width="600"/> 
 
-Add Todo Form : - <img src ="docs\Frontphoto.png" width="600"/> 
+<br>
 
+Phpadmin on cloud mysql
 
-Phpadmin on cloud mysql : -<img src="docs\phpadminimage.png" width="600"/>  
+<br>
+<img src="docs\phpadminimage.png" width="600"/>  
+<br>
+
 Deployed on Render
 
-CI/CD Pipeline
+
 
 (Place your screenshots inside a /docs folder in your project.)
 
