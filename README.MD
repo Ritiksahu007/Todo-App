@@ -11,13 +11,13 @@ This project demonstrates full-stack web development, covering CRUD operations, 
 
 🧩 Tech Stack
 Layer	Technology
-Frontend	Thymeleaf, HTML5, CSS3
-Backend	Spring Boot (Java 17)
-Database	MySQL
-Build Tool	Maven
-Deployment	Render (Free Cloud Hosting)
-Version Control	Git & GitHub
-CI/CD	GitHub Actions + Render Auto Deploy
+Frontend	Thymeleaf, HTML5, CSS3.
+Backend	Spring Boot (Java 17).
+Database	MySQL.
+Build Tool	Maven.
+Deployment	Render (Free Cloud Hosting).
+Version Control	Git & GitHub.
+CI/CD	GitHub Actions + Render Auto Deploy.
 ✨ Features
 
 📝 Add new todos with title and description
@@ -121,8 +121,8 @@ uses: actions/checkout@v4
 Description	Screenshot
 Homepage
 
-Add Todo Form : - (docs/Frontphoto.png)
-Phpadmin on cloud mysql : - docs/phpadminimage.png
+Add Todo Form : - ![Add Todo Form] (docs/Frontphoto.png)
+Phpadmin on cloud mysql : -![PhpMyAdmin]  (docs/phpadminimage.png)
 
 Deployed on Render
 
